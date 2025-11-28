@@ -1,0 +1,5 @@
+﻿[
+  { "id": "t1", "title": "Setup project repo", "description": "Initialize repo and CI", "status": "done", "assigned_to": "e2", "due_date": "2025-12-05" },
+  { "id": "t2", "title": "Create landing UI", "description": "Design and implement header", "status": "in-progress", "assigned_to": "e1", "due_date": "2025-12-10" },
+  { "id": "t3", "title": "Design DB schema", "description": "Finalize models", "status": "pending", "assigned_to": "e3", "due_date": "2025-12-15" }
+]

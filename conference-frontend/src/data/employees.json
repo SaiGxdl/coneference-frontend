@@ -1,0 +1,5 @@
+﻿[
+  { "id": "e1", "name": "Aisha Kumar", "email": "aisha@example.com", "role": "Frontend Engineer", "department": "Engineering" },
+  { "id": "e2", "name": "Noah Patel", "email": "noah@example.com", "role": "Backend Engineer", "department": "Engineering" },
+  { "id": "e3", "name": "Priya Singh", "email": "priya@example.com", "role": "Data Engineer", "department": "Data" }
+]
